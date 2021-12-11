@@ -1,0 +1,6 @@
+{
+    "crates_path": "./src/",
+    "crates": [
+      "math_lib"
+    ]
+  }

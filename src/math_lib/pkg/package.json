@@ -1,0 +1,15 @@
+{
+  "name": "math_lib",
+  "collaborators": [
+    "deepgreenAN <asami73dgreen63@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "math_lib_bg.wasm",
+    "math_lib.js",
+    "math_lib.d.ts"
+  ],
+  "module": "math_lib.js",
+  "types": "math_lib.d.ts",
+  "sideEffects": false
+}
